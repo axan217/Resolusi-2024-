@@ -3,4 +3,4 @@ Rencana 2024
 - belajar ngoding
 - menyelesaikan misi campus coder
 - belajar Algoritma Pemrograman
-- belajar hal baru
+- buat project
